@@ -1,0 +1,5 @@
+12/08 15:36:39.483 E/getSingleRecord: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column '3d2e1c0b' in 'where clause'
+12/08 15:38:04.758 E/getSingleRecord: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column '3d2e1c0b' in 'where clause'
+12/08 15:38:44.840 E/getSingleRecord: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column '3d2e1c0b' in 'where clause'
+12/08 15:40:00.514 E/getSingleRecord: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column '3d2e1c0b' in 'where clause'
+12/08 15:51:56.622 E/getSingleRecord: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3d2e1c0b-d6da-4170-a48f-80680896ce32'' at line 1
